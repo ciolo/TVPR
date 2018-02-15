@@ -48,6 +48,6 @@ MainFolder
    |-- ...
 |-- dataset
 
-N.B. We we provide "/dataset" folder with models already extracted from persons for a quick check.
+N.B. We provide "/dataset" folder with models already extracted from persons for a quick check.
 
 4. Run "core/step4_compare.m" to compare subjects in videos and get a score.
